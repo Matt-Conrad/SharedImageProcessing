@@ -1,3 +1,4 @@
+"""Contains functions related to connected components algorithms."""
 import numpy as np
 from scipy.ndimage.measurements import label
 
