@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="shared_image_processing",
-    version="0.0.1",
+    version="0.0.2",
     author="Matt-Conrad",
     author_email="mattgrayconrad@gmail.com",
     description="Image processing library for sharing across projects",
